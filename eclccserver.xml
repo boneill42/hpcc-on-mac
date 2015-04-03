@@ -1,0 +1,3 @@
+<EclCCserver build="_" daliServers="127.0.0.1:7070" enableSysLog="true" maxEclccProcesses="4" name="myeclccserver" traceLevel="1">
+  <Option name="maxCompileThreads" value="2"/>
+</EclCCserver>
